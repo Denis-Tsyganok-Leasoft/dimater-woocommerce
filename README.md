@@ -28,7 +28,7 @@ Start immediately with your test account
 Request it https://merchant.paygate.dipaygo.cloud/login
 
 ## Version number
-Version x.x.x
+Version 1.2.3.4
 
 ## Pre-requisites to install the plug-ins 
 * PHP v5.4 and above
