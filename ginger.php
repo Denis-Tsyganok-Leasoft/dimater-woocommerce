@@ -3,7 +3,7 @@
  * Plugin Name: Dimater payments
  * Plugin URI: https://www.di-mater.com
  * Description: Dimater Payments WooCommerce plugin
- * Version: 1.2.3.4
+ * Version: 9.1.2.2
  * Author: Ginger Payments
  * Author URI: https://www.gingerpayments.com/
  * License: The MIT License (MIT)
