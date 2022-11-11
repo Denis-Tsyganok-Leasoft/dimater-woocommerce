@@ -14,6 +14,7 @@ classes/class-wc-ginger-afterpay.php
 classes/class-wc-ginger-applepay.php
 classes/class-wc-ginger-amex.php
 classes/class-wc-ginger-googlepay.php
+classes/class-wc-ginger-paynow.php
 images/ginger_klarna-direct-debit.png
 images/ginger_tikkie-payment-request.png
 images/ginger_wechat.png

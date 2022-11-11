@@ -1,0 +1,545 @@
+# Copyright (C) 2017 Dimater
+# This file is distributed under the same license as the Dimater Payments package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Dimater Payments 1.2.3\n"
+"POT-Creation-Date: 2022-11-11 05:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Ginger Payments\n"
+"Language-Team: Ginger Payments Plugins <plugins@gingerpayments.com>\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: classes/class-wc-ginger-afterpay.php:20 
+#: classes/class-wc-ginger-afterpay.php:21
+msgid "Dimater Payments : AfterPay"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:60
+msgid ""
+"Unfortunately, we can not currently accept your purchase with AfterPay. "
+"Please choose another payment option to complete your order. We apologize "
+"for the inconvenience."
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:82
+msgid "Your payment using AfterPay is successful."
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:83 
+#: classes/class-wc-ginger-klarnapaylater.php:84
+msgid "The invoice will be sent to your email."
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:95
+msgid "Additional Information"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:100
+msgid "Gender:"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:103
+msgid "Male"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:104
+msgid "Female"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:112
+msgid "Dag"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:125
+msgid "Maand"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:127
+msgid "Jan"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:128
+msgid "Feb"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:129
+msgid "Mar"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:130
+msgid "Apr"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:131
+msgid "May"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:132
+msgid "Jun"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:133
+msgid "Jul"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:134
+msgid "Aug"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:135
+msgid "Sep"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:136
+msgid "Oct"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:137
+msgid "Nov"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:138
+msgid "Dec"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:142
+msgid "Jaar"
+msgstr ""
+
+#: classes/class-wc-ginger-afterpay.php:161
+#, php-format
+msgid "I accept <a href='%s' target='_blank'>Terms and Conditions</a>"
+msgstr ""
+
+#: classes/class-wc-ginger-amex.php:17 classes/class-wc-ginger-amex.php:18
+msgid "American Express - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-amex.php:50 classes/class-wc-ginger-applepay.php:50 
+#: classes/class-wc-ginger-bancontact.php:50 
+#: classes/class-wc-ginger-callback.php:164 
+#: classes/class-wc-ginger-creditcard.php:50 
+#: classes/class-wc-ginger-ideal.php:58 
+#: classes/class-wc-ginger-klarnapaynow.php:50 
+#: classes/class-wc-ginger-payconiq.php:50 
+#: classes/class-wc-ginger-paynow.php:49 classes/class-wc-ginger-paypal.php:50 
+#: classes/class-wc-ginger-tikkiepaymentrequest.php:50 
+#: classes/class-wc-ginger-wechat.php:50
+msgid "There was a problem processing your transaction."
+msgstr ""
+
+#: classes/class-wc-ginger-applepay.php:17 
+#: classes/class-wc-ginger-applepay.php:18
+msgid "Apple Pay - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-bancontact.php:17 
+#: classes/class-wc-ginger-bancontact.php:18
+msgid "Bancontact - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:26 
+#: classes/class-wc-ginger-banktransfer.php:27
+msgid "Banktransfer - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:73
+msgid "Awaiting Bank-Transfer Payment"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:113
+msgid "Please use the following payment information:"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:115
+msgid "Bank Reference:"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:117
+msgid "IBAN:"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:119
+msgid "BIC:"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:121
+msgid "Account Holder:"
+msgstr ""
+
+#: classes/class-wc-ginger-banktransfer.php:123
+msgid "Residence:"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:16 
+#: classes/class-wc-ginger-callback.php:17
+msgid "Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:26
+msgid "API key"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:28
+msgid "API key provided by Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:31 
+#: classes/class-wc-ginger-helper.php:328
+msgid "Test API key"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:33
+msgid "Test API key for testing implementation of Klarna."
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:36
+msgid "Klarna Debug IP"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:38
+msgid ""
+"IP address for testing Klarna. If empty, visible for all. If filled, only "
+"visible for specified IP addresses. (Example: 127.0.0.1, 255.255.255.255)"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:41
+msgid "Failed payment page"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:43
+msgid "Page where user is redirected after payment has failed."
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:48
+msgid "Checkout Page"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:49
+msgid "Shopping Cart"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:55
+msgid "cURL CA bundle"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:56
+msgid "Use cURL CA bundle"
+msgstr ""
+
+#: classes/class-wc-ginger-callback.php:58
+msgid "Resolves issue when curl.cacert path is not set in PHP.ini"
+msgstr ""
+
+#: classes/class-wc-ginger-creditcard.php:17 
+#: classes/class-wc-ginger-creditcard.php:18
+msgid "Mastercard, VISA, Maestro or V PAY - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-gateway.php:65
+msgid ""
+"Your transaction is still being processed. You will be notified when status "
+"is updated."
+msgstr ""
+
+#: classes/class-wc-ginger-gateway.php:75
+msgid "Gateway Disabled"
+msgstr ""
+
+#: classes/class-wc-ginger-gateway.php:112
+#, php-format
+msgid "Current shop currency %s not supported by Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-gateway.php:122
+#, php-format
+msgid "Current shop currency %s not supported by %s."
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:222
+msgid "iDEAL"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:223
+msgid "Enable iDEAL Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:227
+msgid "Credit Card"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:228
+msgid "Enable Credit Card Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:232
+msgid "Bank Transfer"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:233
+msgid "Enable Bank Transfer Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:237
+msgid "Klarna Pay Now"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:238
+msgid "Enable Klarna Pay Now Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:242
+msgid "Bancontact"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:243
+msgid "Enable Bancontact Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:247
+msgid "PayPal"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:248
+msgid "Enable PayPal Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:252
+msgid "AfterPay"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:253
+msgid "Enable AfterPay Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:257
+msgid "Klarna Pay Later"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:258
+msgid "Enable Klarna Pay Later Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:262
+msgid "Payconiq"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:263
+msgid "Enable Payconiq Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:267
+msgid "Apple Pay"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:268
+msgid "Enable Apple Pay Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:272
+msgid "Pay Now"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:273
+msgid "Enable Pay Now Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:276
+msgid "American Express"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:277
+msgid "Enable American Express Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:281
+msgid "Tikkie Payment Request"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:282
+msgid "Enable Tikkie Payment Request Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:286
+msgid "WeChat"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:287
+msgid "Enable WeChat Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:298
+msgid "Enable/Disable"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:304
+msgid "Title"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:306
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:313
+msgid "Allowed currencies"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:314
+msgid "Payment gateway will be available ONLY for selected currencies."
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:315
+msgid "If set empty - option is ignored."
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:321
+msgid "Select currencies..."
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:330
+msgid "Test API key for testing implementation of AfterPay."
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:333
+msgid "AfterPay Debug IP"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:335
+msgid ""
+"IP address for testing AfterPay. If empty, visible for all. If filled, only "
+"visible for specified IP addresses. (Example: 127.0.0.1, 255.255.255.255)"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:338
+msgid "Countries available for AfterPay"
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:340
+msgid ""
+"To allow AfterPay to be used for any other country just add its country code "
+"(in ISO 2 standard) to the \"Countries available for AfterPay\" field. "
+"Example: BE, NL, FR <br>  If field is empty then AfterPay will be available "
+"for all countries."
+msgstr ""
+
+#: classes/class-wc-ginger-helper.php:463
+#, php-format
+msgid "Your order %s at %s"
+msgstr ""
+
+#: classes/class-wc-ginger-ideal.php:17 classes/class-wc-ginger-ideal.php:18
+msgid "iDEAL - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-ideal.php:32
+msgid "Payment Error: You must choose an iDEAL Bank!"
+msgstr ""
+
+#: classes/class-wc-ginger-ideal.php:83
+msgid "Choose your bank:"
+msgstr ""
+
+#: classes/class-wc-ginger-klarnapaylater.php:17 
+#: classes/class-wc-ginger-klarnapaylater.php:18
+msgid "Klarna Pay Later - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-klarnapaylater.php:57
+msgid ""
+"Unfortunately, we can not currently accept your purchase with Klarna. Please "
+"choose another payment option to complete your order. We apologize for the "
+"inconvenience."
+msgstr ""
+
+#: classes/class-wc-ginger-klarnapaylater.php:83
+msgid "Your payment using Klarna is successful."
+msgstr ""
+
+#: classes/class-wc-ginger-klarnapaynow.php:17 
+#: classes/class-wc-ginger-klarnapaynow.php:18
+msgid "Dimater Payments - Klarna Pay Now"
+msgstr ""
+
+#: classes/class-wc-ginger-payconiq.php:17 
+#: classes/class-wc-ginger-payconiq.php:18
+msgid "Dimater Payments - PAYCONIQ"
+msgstr ""
+
+#: classes/class-wc-ginger-paynow.php:17 classes/class-wc-ginger-paynow.php:18
+msgid "Pay now - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-paypal.php:17 classes/class-wc-ginger-paypal.php:18
+msgid "PayPal - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-tikkiepaymentrequest.php:17 
+#: classes/class-wc-ginger-tikkiepaymentrequest.php:18
+msgid "Tikkie Payment Request - Dimater Payments"
+msgstr ""
+
+#: classes/class-wc-ginger-wechat.php:17 classes/class-wc-ginger-wechat.php:18
+msgid "WeChat - Dimater Payments"
+msgstr ""
+
+msgid "Dimater Payments - Library"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "API key is empty Dimater Payments payment methods deactivated"
+msgstr ""
+
+msgid "API Key is not valid: %s Dimater Payments payment methods deactivated"
+msgstr ""
+
+msgid ""
+"API Key has not permission for some action: %s Please contact technical "
+"support!"
+msgstr ""
+
+msgid "The following payment methods are not available for selected currency:"
+msgstr ""
+
+msgid ""
+"Unfortunately, we can not currently accept your purchase. Please choose "
+"another payment option to complete your order. We apologize for the "
+"inconvenience."
+msgstr ""
+
+msgid "API key is empty. Set API key and try again"
+msgstr ""
+
+msgid ""
+"Please beware that for bank transactions the refunds will process directly "
+"to the gateway!"
+msgstr ""
+
+msgid "GiroPay"
+msgstr ""
+
+msgid "GiroPay - Dimater Payments"
+msgstr ""
+
+msgid ""
+"Swish\n"
+msgstr ""
+
+msgid "Swish - Dimater Payments"
+msgstr ""
+
+msgid "MobilePay - Dimater Payments"
+msgstr ""
+
+msgid "MobilePay"
+msgstr ""
